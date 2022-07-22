@@ -4,7 +4,7 @@
  </a>
 </h1>
 
-- 🔭 I’m currently working on Advance Music Bot projects
+Hello, my name is Mihai, I'm 21 years old and I'm from Romania, I'm currently making content on Design and Development. I really enjoy learning languages and frameworks like Java and JavaScript, as well as working in HTML, CSS and MongoDB. I also like the design in general.
 
 ### Languages and Tools:
 
