@@ -6,6 +6,8 @@
 
 Hello, my name is Mihai, I'm 21 years old and I'm from Romania, I'm currently making content on Design and Development. I really enjoy learning languages and frameworks like Java and JavaScript, as well as working in HTML, CSS and MongoDB. I also like the design in general.
 
+<div align = "center">
+
 <p align="centre"> 
 <a href="https://www.instagram.com/_mihait_/"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Instagram"/></a>
 <a href="https://www.youtube.com/channel/UCs6saldL8-yzUkgX3S9MkGw"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="YouTube"/></a>
