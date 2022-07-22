@@ -9,7 +9,7 @@ Hello, my name is Mihai, I'm 21 years old and I'm from Romania, I'm currently ma
 <div align = "center">
 
 <p align="centre"> 
-<a href="https://www.instagram.com/_mihait_/"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Instagram"/></a>
+<a href="https://www.instagram.com/_mihait_/"> <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" title="Instagram"/></a>
 <a href="https://www.youtube.com/channel/UCs6saldL8-yzUkgX3S9MkGw"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="YouTube"/></a>
 <a href="https://mihait.ro/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="MihaiT"/></a>
 <a href="mailto: support@mihait.ro"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
