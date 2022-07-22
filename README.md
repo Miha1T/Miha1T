@@ -10,24 +10,9 @@ Hello, my name is Mihai, I'm 21 years old and I'm from Romania, I'm currently ma
 
 <p align="centre"> 
 <a href="https://www.instagram.com/_mihait_/"> <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" title="Instagram"/></a>
-<a href="https://www.youtube.com/channel/UCs6saldL8-yzUkgX3S9MkGw"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="YouTube"/></a>
-<a href="https://mihait.ro/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="MihaiT"/></a>
-<a href="mailto: support@mihait.ro"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
+<a href="https://www.youtube.com/channel/UCs6saldL8-yzUkgX3S9MkGw"> <img width="30px" src="https://i.pinimg.com/originals/6a/42/04/6a4204f04496559aa27101d25983d0f0.png" title="YouTube"/></a>
+<a href="https://mihait.ro/"> <img width="30px" src="https://icon-library.com/images/65b3db429c_64716.png" title="MihaiT"/></a>
+<a href="mailto: support@mihait.ro"> <img width="30px" src="https://cdn0.iconfinder.com/data/icons/most-usable-logos/120/Email-512.png" title="Email"/> </a><br>
 </p>
 
 ## 🔖 My Statistics
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-<br />
-<br />
